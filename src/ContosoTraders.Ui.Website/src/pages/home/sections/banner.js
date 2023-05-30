@@ -17,7 +17,7 @@ function Banner(props) {
             {props.secondHeading}
           </div>
           <div className="BannerButtondiv">
-            <button className="BannerButton" onClick={() => startShopping()} >Start Shopping</button>
+            <button className="BannerButton" onClick={() => startShopping()} >Start Shopping Right NOW!</button>
           </div>
         </Grid>
       </Grid>
